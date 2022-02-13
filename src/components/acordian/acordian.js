@@ -57,6 +57,7 @@ export default function SimpleAccordion() {
             </Typography>
           </AccordionDetails>
         </Accordion>
+        <div style={{marginBottom:80}}/>
       </div>
   );
 }

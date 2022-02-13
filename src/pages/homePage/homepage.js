@@ -11,7 +11,7 @@ function Home(){
       <Layout>
           <Header style={{ position: 'sticky', margin:'0', width: '100%',backgroundColor:"black" }}><HeaderBanner/></Header>
           <Content><ContextBody/></Content>
-        <Footer><FooterSite/></Footer>
+        <Footer style={{backgroundColor:"#182533"}}><FooterSite/></Footer>
       </Layout>
   );
 }

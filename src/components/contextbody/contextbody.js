@@ -360,6 +360,7 @@ function ContextBody() {
               <SimpleAccordion/>
             </Col>
           </Row>
+          <div/>
         </div>
       </div>
   );
