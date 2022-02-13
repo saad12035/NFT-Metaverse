@@ -1,0 +1,154 @@
+.container-body1{
+    background-image: url("https://www.toughguys.club/wp-content/uploads/2022/01/main_banner_new_2.jpg") !important;
+    background-size: cover;
+    min-height: 700px;
+    padding-top: 3rem;
+}
+
+
+.timer-text h1{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.timer-text h2{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -40px;
+}
+.button{
+    width: 100%;
+    height: 60px;
+    background-color: #E2B349;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.button h1{
+    padding-top: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #C26500;
+    text-shadow: black;
+}
+
+.container-body2{
+    background-color: black;
+}
+.body2-text h1{
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.body2-text h2{
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.cards{
+
+    background-color: #182533;
+    padding-top: 20px;
+    padding-left: 30px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+}
+
+.cards h1{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.cards h2{
+    margin-top: -10px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+}
+
+.cards-image{
+    margin-right: -30px;
+    z-index: 1;
+}
+
+
+.second-boxes{
+    background-color: #52C8F7;
+    padding: 24px;
+    text-align: center;
+    border-radius: 30px;
+    margin-right: -50px;
+    padding-bottom: 10px!important;
+
+}
+
+.second-boxes h1{
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.second-box2{
+    background-color: #182533;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    line-height: 1;
+    border-radius: 20px;
+    border-top-left-radius: 0px!important;
+    border-bottom-left-radius: 0px!important;
+}
+
+.second-box2 h1{
+    color: white;
+    font-weight: bold;
+}
+.second-box2 h2{
+    color: white;
+    font-weight: 500;
+}
+
+.imagelap{
+    z-index: 1!important;
+    margin-left: -80px;
+    margin-top: -80px;
+}
+
+.veh{
+    margin-top: -60px;
+    margin-left: 150px;
+    padding-bottom: 150px;
+    border-left: 16px dotted #52C8F7;
+    height: 100px;
+}
+
+.images2-box{
+    margin-top: 30px;
+    background-color: #182533;
+    padding: 10px;
+    border-radius: 20px;
+    height: 120px!important;
+    line-height: 1.5;
+}
+
+.images2-box h1{
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.images2-box h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+}
